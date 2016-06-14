@@ -17,7 +17,7 @@ Magna SIS es una organización basada en proyectos y, como todo proyecto en la e
 
 
 ####Recursos para esta etapa
-* Estructura normalizada del sistema de información para un proyecto
+* [Estructura normalizada del sistema de información para un proyecto](https://docs.google.com/document/d/183Lqwc5midfSrTKOxvbt1QWFYRYN_D1XZsxajvl9pFs/edit?usp=sharing)
 * [Plantilla para el acta de constitución](https://docs.google.com/document/d/1KNeYYhicIhNtUl6-zNQNymBbkzSxlaYcxMRMbRFooB8/edit?usp=sharing)
 * [Plantilla para la planificación](https://docs.google.com/document/d/1T-uWU4-DnT8bhWs-jGq-WePz01__-BhUmlNeK4Z_lVg/edit?usp=sharing)
 * [Plantilla para las actas de reuniones de equipo](https://docs.google.com/document/d/1-K0A9GAUpcntzmuWjW1eaUuPHe1KhPNdyYLD867x9BQ/edit?usp=sharing)
