@@ -4,7 +4,7 @@
 ## Esquema general
 
 [![](https://docs.google.com/drawings/d/1cWFzESKB95219659yr3Jx4KYYPJC-pm0JPzU88oEeoM/pub?w=962&h=450)](https://docs.google.com/drawings/d/1cWFzESKB95219659yr3Jx4KYYPJC-pm0JPzU88oEeoM/edit?usp=sharing)
-Clic para editar la imagen
+Clic en la imagen para editarla
 
 ## Descripción y nomenclatura
 
