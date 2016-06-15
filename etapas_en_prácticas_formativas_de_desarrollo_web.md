@@ -48,6 +48,7 @@ Se recomienda que los alumnos que quieran participar en el proyecto deban enviar
 
 #### Recursos para esta etapa
 * [Ejemplos de correos de anuncio de prácticas](ejemplos_de_correos_de_anuncio_de_practicas.md)
+* [Guía para las redes sociales](https://drive.google.com/file/d/0B7zmFzgQ5BgvRzV0ZDJPVXVDOE1rX0luMG1VM1pOYkNHeDFN/view?usp=sharing)
 
 
 
