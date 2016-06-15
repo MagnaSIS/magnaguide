@@ -27,7 +27,7 @@ Magna SIS es una organización basada en proyectos y, como todo proyecto en la e
 
 
 
-![](https://docs.google.com/drawings/d/1cWFzESKB95219659yr3Jx4KYYPJC-pm0JPzU88oEeoM/pub?w=962&h=450)
+
 
 
 
