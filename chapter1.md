@@ -1,31 +1,44 @@
-#Etapas en prácticas formativas de desarrollo web
+# Etapas en prácticas formativas de desarrollo web
 
 Esta sección recoge un esquema general y recomendaciones para unas prácticas formativas de desarrollo web en Magna SIS. 
 
 
-##Inicio de las prácticas
+## Inicio de las prácticas
 
 
-###Motivación
+### Motivación
 
 Las prácticas formativas en desarrollo web pueden realizarse, por un lado, para captar nuevos socios en Magna SIS, ya que permiten suscitar interés en la empresa, conocer las dinámicas de trabajo y aprender una base sólida con la que trabajar en futuros proyectos, y, por otro lado, para realizar o colaborar en el algún desarrollo web concreto que sea de interés para la organización.
 
 
-###Primeros pasos
+### Primeros pasos
 
-Magna SIS es una organización basada en proyectos y, como todo proyecto en la empresa, requiere de un director de proyecto que redacte un acta de constitución para que el proyecto tenga el visto bueno por parte de la junta directiva y pueda ponerse en marcha. Esto dará lugar a la formación del equipo del proyecto, con las personas necesarias para llevarlo a cabo, y a la planificación, documento con los detalles del proyecto que ayudará al desarrollo del mismo, a un mejor entendimiento entre los miembros del equipo y a generar una referencia para futuros proyectos similares. Para un proyecto de este tipo se recomienda, con carácter general, que el equipo esté formado por dos personas y la planificación deberá estar completada antes del inicio de las prácticas, aunque podrá modificarse y ajustarse a medida que avance en el tiempo. Así mismo, el director de equipo se responsabilizará del seguimiento y control del tiempo invertido en cada tarea del proyecto y por cada integrante del mismo. Cada reunión en la que se tomen decisiones a cerca del proyecto deberá generar su acta correspondiente. En caso de estar un cliente involucrado en el proyecto, se recomienda también la redacción del Acta de Conformidad, documento que permite formalizar un acuerdo entre el cliente y el equipo de proyecto, recogiendo ciertos requisitos, exclusiones y obligaciones por ambas partes que permite justificar el correcto avance del proyecto. Tratándose de un proyecto de prácticas, aunque no exista la figura real del cliente, puede resultar interesante redactar este documento como ejercicio de reflexión y planificación. Todos los recursos generados deberán almacenarse en el sistema de información de Magna SIS siguiendo la estructura normalizada.
+Magna SIS es una organización basada en proyectos y, como todo proyecto en la empresa, requiere de un director de proyecto que redacte un acta de constitución para que el proyecto tenga el visto bueno por parte de la junta directiva y pueda ponerse en marcha. Esto da lugar a la formación del equipo del proyecto con las personas necesarias para llevarlo a cabo. Así mismo, el director de equipo se responsabiliza del seguimiento y control del tiempo invertido en cada tarea del proyecto y por cada integrante del mismo. Cada reunión en la que se tomen decisiones acerca del proyecto debe generar su acta correspondiente. En caso de estar un cliente involucrado en el proyecto, se recomienda también la redacción del Acta de Conformidad, documento que permite formalizar un acuerdo entre el cliente y el equipo de proyecto, recogiendo ciertos requisitos, exclusiones y obligaciones por ambas partes que permiten justificar el correcto avance del proyecto. Tratándose de un proyecto de prácticas, aunque no exista la figura real del cliente, puede resultar interesante redactar este documento como ejercicio de reflexión y planificación. Todos los recursos generados deben almacenarse en el sistema de información de Magna SIS siguiendo la estructura normalizada.
 
 
-####Recursos para esta etapa
+#### Recursos para esta etapa
 * [Estructura normalizada del sistema de información para un proyecto](estructura_del_sistema_de_informacion.md)
 * [Plantilla para el acta de constitución](https://docs.google.com/document/d/1KNeYYhicIhNtUl6-zNQNymBbkzSxlaYcxMRMbRFooB8/edit?usp=sharing)
-* [Plantilla para la planificación](https://docs.google.com/document/d/1T-uWU4-DnT8bhWs-jGq-WePz01__-BhUmlNeK4Z_lVg/edit?usp=sharing)
 * [Plantilla para las actas de reuniones de equipo](https://docs.google.com/document/d/1-K0A9GAUpcntzmuWjW1eaUuPHe1KhPNdyYLD867x9BQ/edit?usp=sharing)
 * [Plantilla para el seguimiento y control](https://docs.google.com/spreadsheets/d/1nPlDbqOMaNo9wu7PMNtmZyz6iZ0LsoBxkc96Zw9b6_U/edit?usp=sharing)
 * [Plantilla para el acta de conformidad con el cliente](https://docs.google.com/document/d/1aLIr_MkwIjrbC4KQfHYMP-osXA0nbL5DlFvq4M4DffI/edit?usp=sharing)
 
 
+### Planificación
 
+La planificación es el documento con los detalles del proyecto que ayuda al desarrollo del mismo, a un mejor entendimiento entre los miembros del equipo y a generar una referencia para futuros proyectos similares. La planificación debe estar completada antes del inicio de las prácticas, aunque puede modificarse y ajustarse a medida que avance su desarrollo, y para un proyecto de este tipo, teniendo en cuenta la experiencia previa, se realizan las siguientes recomendaciones con carácter general:
+* **Equipo del proyecto**: que esté formado por dos personas, ya que la carga de trabajo es asumible para este número y el contar con más de un punto de vista es positivo a la hora de tomar decisiones, así como el apoyo mutuo. Más personas en el equipo puede dar lugar a diluir responsabilidades y a entorpecer la toma de decisiones sin la gestión no es adecuada.
+* **Carga de trabajo**: Las prácticas, por otro lado, tienen como interés para los alumnos que participan en ellas que pueden convalidar el trabajo realizado como créditos optativos del grado, por lo que es recomendable que la duración de las prácticas esté cuantificada en 150 horas o 300 horas, equivalentes a 6 (una asignatura) o 12 (dos asignaturas) créditos optativos, respectivamente. La distribución de estas horas puede variar según las circunstancias pero sesiones de trabajo de cinco horas diarias, de lunes a viernes, han sido satisfactorias en ediciones anteriores.
+* **Calendario**: Teniendo en cuenta el punto anterior, se aconseja que la realización de las prácticas sea en períodos de menor carga de trabajo como después de los exámenes de cada evaluación, preferiblemente en Junio ya que no genera incompatibilidades con asignaturas de la carrera. En esta segunda opción hay que tener en cuenta que tanto los alumnos como los integrantes de Magna SIS suelen tener planificadas actividades para el verano, por lo que se debe procurar finalizar el proyecto no más tarde de mediados de Julio, teniendo en cuenta que, con la dedicación recomendada de 25 horas semanales, las prácticas tendrían una duración de 6 semanas, más lo necesario por parte del equipo de proyecto para planificar y cerrar el proyecto.
+
+
+#### Recursos para esta etapa
+* [Plantilla para la planificación](https://docs.google.com/document/d/1T-uWU4-DnT8bhWs-jGq-WePz01__-BhUmlNeK4Z_lVg/edit?usp=sharing)
+
+
+### Anuncio de las prácticas
+
+Una vez realizada la planificación o, al menos, haber detallado la primera etapa y haber realizado una estructura general de las prácticas identificando los hitos más significativos y el calendario, se puede proceder al anuncio de las prácticas que permita dar a conocerlas y captar alumnos que participen en ellas. 
 
 
 
