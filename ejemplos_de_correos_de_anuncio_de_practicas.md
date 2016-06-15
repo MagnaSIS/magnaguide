@@ -5,7 +5,7 @@ Estos son ejemplos de los correos enviados para anunciar las prácticas en ocasi
 
 ### MagnaSummerInternship2015
 
-*Estimado/a estudiante,
+Estimado/a estudiante,
 
 Desde Magna SIS, empresa junior de nuestra Facultad de Informática, queremos informarte de que estamos preparando, en colaboración con (profesor de la Facultad), un programa de prácticas para un máximo de 8 personas.
 El programa consistirá en completar un curso de Miriada X para aprender las tecnologías HTML5 y JavaScript con Node.js y Express.js, además de trabajar con GitHub, Heroku, SQLite... Podéis ver más detalles del curso en el siguiente enlace: https://www.miriadax.net/web/javascript-node-js
@@ -15,7 +15,7 @@ Como requisito para la inscripción, se pide redactar una carta de motivación q
 Si tenéis cualquier duda, podéis poneros en contacto con nosotros en magnasis@magnasis.com
 
 Un cordial saludo,
-el equipo de Magna SIS*
+el equipo de Magna SIS
 
 
 ### MagnaRenove2016
