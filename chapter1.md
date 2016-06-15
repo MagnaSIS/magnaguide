@@ -30,6 +30,7 @@ La planificación es el documento con los detalles del proyecto que ayuda al des
 * **Equipo del proyecto**: que esté formado por dos personas, ya que la carga de trabajo es asumible para este número y el contar con más de un punto de vista es positivo a la hora de tomar decisiones, así como el apoyo mutuo. Más personas en el equipo puede dar lugar a diluir responsabilidades y a entorpecer la toma de decisiones sin la gestión no es adecuada.
 * **Carga de trabajo**: Las prácticas, por otro lado, tienen como interés para los alumnos que participan en ellas que pueden convalidar el trabajo realizado como créditos optativos del grado, por lo que es recomendable que la duración de las prácticas esté cuantificada en 150 horas o 300 horas, equivalentes a 6 (una asignatura) o 12 (dos asignaturas) créditos optativos, respectivamente. La distribución de estas horas puede variar según las circunstancias pero sesiones de trabajo de cinco horas diarias, de lunes a viernes, han sido satisfactorias en ediciones anteriores.
 * **Calendario**: Teniendo en cuenta el punto anterior, se aconseja que la realización de las prácticas sea en períodos de menor carga de trabajo como después de los exámenes de cada evaluación, preferiblemente en Junio ya que no genera incompatibilidades con asignaturas de la carrera. En esta segunda opción hay que tener en cuenta que tanto los alumnos como los integrantes de Magna SIS suelen tener planificadas actividades para el verano, por lo que se debe procurar finalizar el proyecto no más tarde de mediados de Julio, teniendo en cuenta que, con la dedicación recomendada de 25 horas semanales, las prácticas tendrían una duración de 6 semanas, más lo necesario por parte del equipo de proyecto para planificar y cerrar el proyecto.
+* **Número de alumnos en prácticas**: Se recomienda que el número de alumnos no sea menor a 4 ni mayor a 10.
 
 
 #### Recursos para esta etapa
@@ -38,7 +39,16 @@ La planificación es el documento con los detalles del proyecto que ayuda al des
 
 ### Anuncio de las prácticas
 
-Una vez realizada la planificación o, al menos, haber detallado la primera etapa y haber realizado una estructura general de las prácticas identificando los hitos más significativos y el calendario, se puede proceder al anuncio de las prácticas que permita dar a conocerlas y captar alumnos que participen en ellas. 
+Una vez realizada la planificación o, al menos, haber detallado la primera etapa y haber realizado una estructura general de las prácticas identificando los hitos más significativos y el calendario, se puede proceder al anuncio de las prácticas que permita dar a conocerlas y así captar alumnos que participen en ellas. La Facultad de Informática dispone de un correo de difusión que permite llegar a todos los alumnos de la facultad (aluinformatica@list.ehu.eus). Para utilizar esta lista de difusión es necesario enviar un correo a dicho dirección y desde una cuenta de correo de alumno (@ikasle.ehu.eus). Se recibe un correo en contestación diciendo que revisarán el correo y, una vez aprobado, lo enviarán a los alumnos. Generalmente el proceso se lleva a cabo el mismo día. También es recomendable realizar el anuncio en las redes sociales de Magna SIS (Facebook y Twitter) ya que muchos alumnos prestan más atención a estos canales y además favorece la promoción y la imagen de la empresa. De hecho, es preferible que en las redes sociales quede reflejado el transcurso de las prácticas, desde que suerge la idea hasta el cierre del proyecto, ya que es un buen recurso promocional.
+
+
+#### Recursos para esta etapa
+* [Plantilla para la planificación](https://docs.google.com/document/d/1T-uWU4-DnT8bhWs-jGq-WePz01__-BhUmlNeK4Z_lVg/edit?usp=sharing)
+
+
+
+
+
 
 
 
