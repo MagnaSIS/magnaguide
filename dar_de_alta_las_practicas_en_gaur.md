@@ -61,8 +61,3 @@ Accediendo de nuevo a GAUR, en el apartado de "Prácticas", sección "Prácticas
 Cada copia deberá ir firmada por el tutor por parte de Magna SIS y por parte del alumno en prácticas, además del sello de la empresa. En el propio convenio se indica que se debe realizar un ingreso de una cantidad de 30€ por parte de la empresa para gastos de gestión en el número de cuenta también especificado.
 
 Una vez recopilados todos los convenios firmados y sellados y obtenido el justificante de pago de cada práctica, se debe acudir a secretaría para entregar los documentos. En secretaría firman los documentos y recogen los justificantes de pago. Dos de las copias son devueltas en el momento para ser conservadas por la empresa y por el alumno.
-
-
-
-
-
