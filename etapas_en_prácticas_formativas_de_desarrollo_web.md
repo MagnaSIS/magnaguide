@@ -51,7 +51,7 @@ Con carácter general, se recomienda que los alumnos que participen en las prác
 #### Recursos para esta etapa
 * [Ejemplos de correos de anuncio de prácticas](ejemplos_de_correos_de_anuncio_de_practicas.md)
 * [Guía para las redes sociales](https://drive.google.com/file/d/0B7zmFzgQ5BgvRzV0ZDJPVXVDOE1rX0luMG1VM1pOYkNHeDFN/view?usp=sharing)
-* Guía para dar de alta programas de prácticas en GAUR
+* [Guía para dar de alta programas de prácticas en GAUR](dar_de_alta_las_practicas_en_gaur.md)
 
 
 
