@@ -66,7 +66,7 @@ El día fijado para el inicio de las prácticas se celebra la primera sesión co
 
 ####Recursos para esta etapa
 * [Estructura normalizada del sistema de información para un proyecto](estructura_del_sistema_de_informacion.md)
-* Colección de recursos formativos
+* [Colección de recursos formativos](recursos_formativos.md)
 
 ###Etapa formativa
 
