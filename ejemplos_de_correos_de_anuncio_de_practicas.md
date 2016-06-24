@@ -30,6 +30,8 @@ Magna SIS es una empresa formada y dirigida por alumnos de la facultad centrada 
 
 Para poder participar en las prácticas, es requisito presentar una carta de motivación al profesor de la facultad (nombre del profesor y correo electrónico), que colabora con nosotros en el desarrollo de las prácticas. En la carta esperamos que expreses tu motivación para las prácticas y para formar parte Magna SIS, así como poner en valor las aptitudes que consideres oportunas.
 
+Tienes hasta el próximo lunes 21 de diciembre de 2015 para enviar tu carta de motivación y tu currículum vítae al profesor (nombre del profesor).
+
 Te esperamos. Un abrazo,
 
 el equipo de Magna SIS.
