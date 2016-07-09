@@ -70,7 +70,9 @@ El día fijado para el inicio de las prácticas se celebra la primera sesión co
 
 ###Etapa formativa
 
-La e
+La etapa formativa pretende, por un lado, dotar a los alumnos en prácticas de los conocimientos base necesarios para llevar a cabo el posterior desarrollo y, por otro lado, crear un lenguaje común entre los alumnos de manera que la comunicación a la hora de tratar aspectos técnicos sea más homogénea y fluida.
+
+Para la adquisición de conocimientos técnicos de desarrollo web, existen multitud de recursos online de calidad que pueden ser utilizados con ese fin y que conviene tener recopilados, contrastados y accesibles para su uso sistemático. Por otro lado
 
 
 
