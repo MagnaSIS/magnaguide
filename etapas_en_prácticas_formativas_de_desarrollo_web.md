@@ -93,6 +93,12 @@ Ya que la formación incluye gran parte de la dedicación de todo el programa de
 En algunas ocasiones, se ha dado la oportunidad de incorporar una charla sobre cookies y seguridad web impartida por un profesor de la facultad experto en la materia. Es una actividad muy interesante en caso de que se pueda contar con ella ya que aporta un punto de vista experto y de autoridad, además de complementar perfectamente los conocimientos en este contexto. En ese caso, es recomendable coordinar con el profesor una metodología de la charla que involucre a los alumnos de forma más proactiva recopilando la información de la charla.
 
 
+### Desarrollo
+
+Esta etapa es más compleja de sistematizar ya que puede ser llevada a cabo de diferentes formas según la aplicación a desarrollar o la naturaleza del grupo de estudiantes. En cualquier caso, es importante en esta etapa recalcar la importancia de las distintas funciones y responsabilidades derivadas del desarrollo de una aplicación web:
+
+
+
  
 
 
