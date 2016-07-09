@@ -72,7 +72,20 @@ El día fijado para el inicio de las prácticas se celebra la primera sesión co
 
 La etapa formativa pretende, por un lado, dotar a los alumnos en prácticas de los conocimientos base necesarios para llevar a cabo el posterior desarrollo y, por otro lado, crear un lenguaje común entre los alumnos de manera que la comunicación a la hora de tratar aspectos técnicos sea más homogénea y fluida. Para la adquisición de conocimientos técnicos de desarrollo web, existen multitud de recursos online de calidad que pueden ser utilizados con ese fin y que conviene tener recopilados, contrastados y accesibles para su uso sistemático. Por otro lado Magna SIS debe contar con una colección de recursos técnicos de manera que, con carácter general, utilice el mismo conjunto de tecnologías para abordar problemas similares.
 
-En el caso de un programa de prácticas formativo de desarrollo web y con una estimación de dedicación de 150 horas, se recomienda que esta etapa abarque alrededor de 50 horas. Se propone que se utilice el siguiente paquete tecnológico de forma general: HTML, CSS, JavaScript y JQuery para el lado del cliente; Python y Django para el lado del servidor; y Git como sistema de control de versiones.
+En el caso de un programa de prácticas formativo de desarrollo web y con una estimación de dedicación de 150 horas, se recomienda que esta etapa abarque alrededor de 50 horas. Se propone que se utilice el siguiente paquete tecnológico de forma general: HTML, CSS, JavaScript y JQuery para el lado del cliente; Python y Django para el lado del servidor; y Git como sistema de control de versiones. También se recomienda el uso del mismo entorno de desarrollo (IDE) para homegenizar la metodología de trabajo y, en este caso, la recomendación es utilizar PyCharm. PyCharm es una aplicación muy completa y fácil de usar. La versión profesional cuenta, entre otras cosas, con soporte para Django lo que, en este caso concreto puede ser interesante. Aunque por regla general, y más aún en un entorno educativo, se debería apoyar el software OpenSource, en este se prima el éxito del desarrollo utilizando el que parece ser el IDE que más facilita el trabajo. JetBrains, empresa desarrolladora del software IDE, ofrece la posibilidad de utilizar su software de manera gratuita a estudiantes, previa solicitud que suele cursarse en pocas horas y que, en cualquier caso, se dispone también de un período de prueba de 30 días que permite comenzar a trabajar en el momento.
+
+La formación se puede realizar de forma auto-gestionada o en sesiones de trabajo grupal. En ambos casos, es interesante que la formación se haga de forma colaborativa, resolviendo dudas unos alumnos a otros y aportando conocimientos adicionales. Para ello, se puede recurrir a una plataforma de comunicación tipo foro o chat en la que exista una sección para cada curso o tutorial donde puedan mencionar cualquier cosa referida al curso o la tecnología en cuestión. La plataforma recomendada en este caso es Slack, servicio de mensajería instantánea con características interesantes para la comunicación de un equipo de proyecto. Slack permite crear un grupo para el proyecto formativo con los participantes del mismo y, además de las conversaciones privadas entre dos personas, permite crear subgrupos destinados a temática específica del proyecto, como puede ser cada curso de la etapa formativa. Además, dispone de clientes Android, iOS, web y Windows y, a diferencia de otros sistemas de mensajería, no requiere de un número de teléfono para identificarse.
+
+
+####Recursos para esta etapa
+* [Colección de recursos formativos](recursos_formativos.md)
+* [Enlace a la web de JetBrains para la solicitud de la licencia de estudiante](https://www.jetbrains.com/student/)
+
+
+
+ 
+
+
 
 
 
