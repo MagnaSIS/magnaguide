@@ -108,7 +108,7 @@ Esta etapa es más compleja de sistematizar ya que puede ser llevada a cabo de d
 
 * **Equipo de desarrollo**: Es el encargado de llevar a cabo la implementación de la aplicación para completar los casos de uso previstos y nuevas funcionalidades. Debe comunicarse y responder ante el resto de equipos ya que éste es el que tiene contacto más directo con el funcionamiento de la aplicación. En caso de que se considere apropiado para balancear la carga de trabajo, se puede complementar el equipo de desarrollo con apoyo del resto de equipos siempre que la dirección dé el visto bueno.
 
-
+Es conveniente que el desarrollo se realice utilizando Git como control de versiones. Se recomienda seguir una serie de pasos como base para su utilización: Magna SIS crea un repositorio base en su cuenta oficial; El alumno que ha asumido la dirección del equipo clona el repositorio para asumir el control de la convergencia de los cambios; se asigna permisos de edición en el repositorio a cada alumno involucrado en el desarrollo; Cada vez que un desarrollador quiera aportar al repositorio, deberá crear una rama con un propósito concreto (agregar una funcionalidad o caso de uso completo, por ejemplo) a la que irá realizando "commits" de forma periódica y razonable; Una vez se considere que la rama ha cumplido su cometido, se podrá fusionar a la rama "master" corrigiendo las posibles incompatibilidades que surjan; Se debe realizar este proceso de forma sistemática hasta el final del proyecto, en donde se realizará un "pull request" al repositorio inicial de Magna SIS de manera que se incorpore todo el trabajo al repositorio oficial.
 
  
 
