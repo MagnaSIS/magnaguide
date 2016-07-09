@@ -86,6 +86,13 @@ Por último, aunque la formación sea auto-gestionada, es recomendable facilitar
 
 
 
+### Actividades complementarias durante la formación
+
+Ya que la formación incluye gran parte de la dedicación de todo el programa de prácticas, para que sea más amena y no se pierda de vista el objetivo del desarrollo de una aplicación, se recomienda complementar la etapa formativa con alguna sesión en grupo destinada a concretar algunos aspectos de la aplicación como pueden ser los casos de uso, el diagrama UML o la arquitectura del sistema.
+
+En algunas ocasiones, se ha dado la oportunidad de incorporar una charla sobre cookies y seguridad web impartida por un profesor de la facultad experto en la materia. Es una actividad muy interesante en caso de que se pueda contar con ella ya que aporta un punto de vista experto y de autoridad, además de complementar perfectamente los conocimientos en este contexto. En ese caso, es recomendable coordinar con el profesor una metodología de la charla que involucre a los alumnos de forma más proactiva recopilando la información de la charla.
+
+
  
 
 
