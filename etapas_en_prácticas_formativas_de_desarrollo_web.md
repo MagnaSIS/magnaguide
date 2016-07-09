@@ -59,7 +59,7 @@ Con carácter general, se recomienda que los alumnos que participen en las prác
 
 El día fijado para el inicio de las prácticas se celebra la primera sesión con todos los participantes en las mismas, que debe ser anunciada y confirmada con unos días de antelación. La estructura recomendada para esta primera sesión es la siguiente:
 
-* **Introducción a Magna SIS**: Tras la bienvenida, es importante situar a los alumnos en prácticas en el marco de trabajo explicando qué es Magna SIS, sus valores y su metodología de trabajo.
+* **Introducción a Magna SIS**: Tras la bienvenida, es importante situar a los alumnos en prácticas en el marco de trabajo explicando qué es Magna SIS, sus valores y su metodología de trabajo. Se debe transmitir que el trabajo se desarrolla en el contexto de una organización y que exige un coste, trabajo y responsabilidad llevar a cabo las prácticas.
 * **Introducción a las prácticas**: Una vez situado el contexto de Magna SIS, se concreta el de las prácticas. Se debe explicar el motivo y el objetivo de las prácticas procurando aclarar qué pueden esperar los alumnos y qué se espera de ellos, y la estructura general de las prácticas. Puede añadirse un pequeño feedback sobre el proceso de selección.
 * **Primera actividad**: Es interesante proponer una primera actividad en grupo, uno o más en función de la actividad y del número de alumnos, relacionada con las prácticas, de no más de una hora y que permita a los alumnos conocerse entre ellos y tener un primer contacto con las dinámicas de trabajo en grupo. Por ello, es recomendable que en la actividad haya un director de equipo que, a su vez, elija un secretario y portavoz de grupo, quienes realizan el acta de la reunión y la presentación del resultado obtenido, respectivamente. El acta y los posibles entregables deben incorporarse dentro del sistema de información del proyecto, generalmente en una subcarpeta de la carpeta "público" a la que tendrán acceso los alumnos en prácticas. Es recomendable también que esa subcarpeta del grupo contenga internamente la estructura de un proyecto de Magna SIS, como si fuese un proyecto (las prácticas desde el punto de vista de los alumnos, con las actividades que realizan) dentro otro (las prácticas desde el punto de vista de Magna SIS). La actividad puede consistir en realizar alguna propuesta o concretar algún aspecto de cara a la aplicación web que van a realizar, de forma que desde el primer día se pueda ir enfocando el desarrollo.
 *  **Comienzo de la formación**: También es importante que el primer día los alumnos se marchen con tareas por realizar y directrices claras para ello. Por eso es buena idea comenzar con las actividades formativas en esta primera sesión de manera que, al final de la misma, tengan trabajo comenzado que sepan cómo continuar.
@@ -70,7 +70,7 @@ El día fijado para el inicio de las prácticas se celebra la primera sesión co
 
 ###Etapa formativa
 
-
+La e
 
 
 
