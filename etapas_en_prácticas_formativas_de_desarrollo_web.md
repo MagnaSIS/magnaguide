@@ -70,9 +70,9 @@ El día fijado para el inicio de las prácticas se celebra la primera sesión co
 
 ###Etapa formativa
 
-La etapa formativa pretende, por un lado, dotar a los alumnos en prácticas de los conocimientos base necesarios para llevar a cabo el posterior desarrollo y, por otro lado, crear un lenguaje común entre los alumnos de manera que la comunicación a la hora de tratar aspectos técnicos sea más homogénea y fluida.
+La etapa formativa pretende, por un lado, dotar a los alumnos en prácticas de los conocimientos base necesarios para llevar a cabo el posterior desarrollo y, por otro lado, crear un lenguaje común entre los alumnos de manera que la comunicación a la hora de tratar aspectos técnicos sea más homogénea y fluida. Para la adquisición de conocimientos técnicos de desarrollo web, existen multitud de recursos online de calidad que pueden ser utilizados con ese fin y que conviene tener recopilados, contrastados y accesibles para su uso sistemático. Por otro lado Magna SIS debe contar con una colección de recursos técnicos de manera que, con carácter general, utilice el mismo conjunto de tecnologías para abordar problemas similares.
 
-Para la adquisición de conocimientos técnicos de desarrollo web, existen multitud de recursos online de calidad que pueden ser utilizados con ese fin y que conviene tener recopilados, contrastados y accesibles para su uso sistemático. Por otro lado
+En el caso de un programa de prácticas, se recomienda 
 
 
 
