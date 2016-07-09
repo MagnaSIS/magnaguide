@@ -82,6 +82,7 @@ Por último, aunque la formación sea auto-gestionada, es recomendable facilitar
 ####Recursos para esta etapa
 * [Colección de recursos formativos](recursos_formativos.md)
 * [Enlace a la web de JetBrains para la solicitud de la licencia de estudiante](https://www.jetbrains.com/student/)
+* [Web oficial de Slack](https://slack.com/)
 
 
 
