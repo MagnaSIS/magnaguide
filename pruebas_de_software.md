@@ -58,5 +58,10 @@ También puede ser de gran utilidad en esta tarea contar con alguna herramienta 
 * Contar con software para “debugging”.
 
 
+### [Pruebas de caja negra](https://en.wikipedia.org/wiki/Black-box_testing)
+Aquellas en las no se tiene en cuenta (o se desconoce) la estructura y el código del software a probar y se centra en las especificaciones o requisitos del mismo. Se busca que, para un “input” concreto, el resultado de la ejecución sea, o no, el esperado. Se habla, en este caso, de los casos de prueba que son la recopilación de los diferentes inputs que el software debe tomar para ser probado. En muchas ocasiones, estos casos de prueba pueden corresponderse con los casos de uso (teóricamente deberían ser los mismos) aunque, mientras los casos de uso suelen describir lo que ocurre cuando el software se usa como está previsto, los casos de prueba deben ampliarlos añadiendo la descripción de lo que debería ocurrir cuando la aplicación se usa de forma indebida (por ejemplo: introducir números en un campo de texto donde te pidan tu nombre). Por esto, es importante describir con detalle los casos de uso de una aplicación ya que, de esta forma, prácticamente se diseñan los casos de prueba de caja negra. Aunque las pruebas de caja negra, al igual que las de caja blanca, pueden realizarse a varios niveles (unidad, integración o sistema), al estar más ligados a los casos de uso, es más conveniente que se realicen sobre cada caso de uso siempre que uno de ellos sea completado, siendo pruebas a niveles de integración y sistema.
 
+#### Conclusiones
+* Diseñar y describir con detalle todos los casos de uso antes del desarrollo, incluyendo los “casos de uso indebido”.
+* Probar el caso de uso cuando esté completado de acuerdo a la descripción.
 
