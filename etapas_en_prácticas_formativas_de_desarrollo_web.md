@@ -117,6 +117,13 @@ Es conveniente que el desarrollo se realice utilizando Git como control de versi
 * [Guía para pruebas de software](pruebas_de_software.md)
  
 
+### Lanzamiento, explotación y presentación pública
+
+Ya con la aplicación en versión estable, se procede al **lanzamiento** público. De la misma forma que para el lanzamiento del evento de betatesting, el equipo de explotación debe prever un entorno de explotación, diferente al de pruebas pero con las mismas características, de manera que asegure en la medida de lo posible un funcionamiento de acuerdo con lo obtenido durante la etapa de desarrollo y pruebas. Previo a este lanzamiento se hace una campaña de marketing que anuncie el próximo lanzamiento y genere expectación en el público potencial, poniendo a disposición la url definitiva que da acceso a la aplicación solo en el momento en que está previsto el lanzamiento, permitiendo ver una cuenta atrás o algún recurso similar hasta entonces.
+
+Si bien la **explotación** no se puede extender mucho tiempo debido a la naturaleza de las prácticas, es interesante que quede previsto un sistema de comunicación con los usuarios y un mantenimiento adecuado de la aplicación de manera que dicha actividad pueda ser externalizada de las prácticas.
+
+Es interesante, también, realizar una **presentación pública** de cara un grupo de interesados, como pueden ser alumnos de la facultad, otros miembros de Magna SIS… Este acto favorece una reflexión y puesta en valor del trabajo realizado a los propios integrantes del equipo y, además, permite conocer y valorar el trabajo por parte de terceras personas.
 
 
 
