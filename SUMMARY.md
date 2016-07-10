@@ -6,5 +6,5 @@
 * [Ejemplos de correos de anuncio de prácticas](ejemplos_de_correos_de_anuncio_de_practicas.md)
 * [Dar de alta las prácticas en GAUR](dar_de_alta_las_practicas_en_gaur.md)
 * [Recursos formativos](recursos_formativos.md)
-* Pruebas de Software
+* [Pruebas de Software](pruebas_de_software.md)
 
