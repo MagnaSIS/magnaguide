@@ -1,6 +1,6 @@
 # Pruebas de Software
 
-Aunque las pruebas forman parte del propio desarrollo, ya que deben realizarse de manera sistemática durante el mismo, merecen una atención especial ya que permiten, en mayor o menor medida, asegurar la calidad del software.
+Aunque las pruebas forman parte del propio desarrollo, al deber realizarse de manera sistemática durante el mismo, merecen una atención especial ya que permiten, en mayor o menor medida, asegurar la calidad del software.
 
 
 ## Pruebas estáticas, de verificación
