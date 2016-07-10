@@ -114,6 +114,7 @@ Es conveniente que el desarrollo se realice utilizando Git como control de versi
 #### Recursos para esta etapa
 * [Plantilla para el seguimiento y control](https://docs.google.com/spreadsheets/d/1nPlDbqOMaNo9wu7PMNtmZyz6iZ0LsoBxkc96Zw9b6_U/edit?usp=sharing)
 * [Guía para las redes sociales](https://drive.google.com/file/d/0B7zmFzgQ5BgvRzV0ZDJPVXVDOE1rX0luMG1VM1pOYkNHeDFN/view?usp=sharing)
+* [Guía para pruebas de software](pruebas_de_software.md)
  
 
 
