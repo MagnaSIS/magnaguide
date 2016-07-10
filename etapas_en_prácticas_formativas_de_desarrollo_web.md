@@ -126,6 +126,14 @@ Si bien la **explotación** no se puede extender mucho tiempo debido a la natura
 Es interesante, también, realizar una **presentación pública** de cara un grupo de interesados, como pueden ser alumnos de la facultad, otros miembros de Magna SIS… Este acto favorece una reflexión y puesta en valor del trabajo realizado a los propios integrantes del equipo y, además, permite conocer y valorar el trabajo por parte de terceras personas.
 
 
+### Cierre de las prácticas
+
+Evento de clausura y reorganización del sistema de información
+
+
+
+
+
 
 
 
