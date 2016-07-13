@@ -19,7 +19,10 @@ MagnaGuide surge de cara a resolver esa necesidad de sistematizar y formalizar l
 
 ## Procedimiento para realizar cambios en esta guía
 
-1. 
+1. Clonar el repositorio a una cuenta personal de GitHub
+2. Realizar los cambios
+3. Realizar un PullRequest
+4. Magna SIS deberá aprobar en Junta Directiva la aceptación de los cambios por mayoría.
 
 
 
