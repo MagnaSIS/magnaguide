@@ -14,7 +14,7 @@ MagnaGuide surge de cara a resolver esa necesidad de sistematizar y formalizar l
 
 ### Guías para proyectos de la empresa según su tipología
 
-* Guía para prácticas formativas de desarrollo web
+* [Guía para prácticas formativas de desarrollo web](etapas_en_prácticas_formativas_de_desarrollo_web.md)
 
 
 ## Procedimiento para realizar cambios en esta guía
