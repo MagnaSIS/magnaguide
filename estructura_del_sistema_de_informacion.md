@@ -66,9 +66,9 @@ Una forma de identificar cuáles NO son LLAA es invertir el sentido de la frase 
 El documento de LLAA durante el desarrollo de un proyecto en Magna SIS deberá localizarse en la carpeta de "Activos" y las Lecciones Aprendidas que se vayan generando deberán incluir el autor y la fecha de las mismas, y clasificarse en, al menos, los siguientes apartados: "Dirección", "Planificacción", "Relación con el cliente" y "Aspectos técnicos". Podrán incluirse más apartados o subapartados ya que, por ejemplo, el apartado "Aspectos técnicos" podría ser más útil en proyectos con gran cantidad de LLAA si se ordenan por categorías (Framework, Alojamiento, Sistema Operativo...).
 
 
-## Reestrucutración en el cierre del proyecto
+## Reestructuración en el cierre del proyecto
 
-No es lo mismo la utilidad del sistema de información durante el desarrollo del proyecto que una vez éste ha finalizado. Por eso, es importante reestructurar el sistema de información una vez se ha finalizado. Se recomienda que la estructura del sistema de información durante la ejecución se "vuelque" de forma inalterada dentro de un subdirectorio llamado "SIE" (Sistema de Información en Ejecución) y del  cual se extraigan los documentos más relevantes de cara a una futura consulta: Lecciones Aprendidas, Planificación, Acta de Constitución y documento de Seguimiento y Control, quedando la estrucutra de la siguiente manera:
+No es lo mismo la utilidad del sistema de información durante el desarrollo del proyecto que una vez éste ha finalizado. Por eso, es importante reestructurar el sistema de información una vez se ha finalizado. Se recomienda que la estructura del sistema de información durante la ejecución se "vuelque" de forma inalterada dentro de un subdirectorio llamado "SIE" (Sistema de Información en Ejecución) y del  cual se extraigan los documentos más relevantes de cara a una futura consulta: Lecciones Aprendidas, Planificación, Acta de Constitución y documento de Seguimiento y Control, quedando la estructura de la siguiente manera:
 
 [![](https://docs.google.com/drawings/d/1h3_T12SkvY_K0bo1m6bVeoj0tcn8nFyANIZ64RXtZfQ/pub?w=963&amp;h=541)](https://docs.google.com/drawings/d/1h3_T12SkvY_K0bo1m6bVeoj0tcn8nFyANIZ64RXtZfQ/edit?usp=sharing)
 Clic en la imagen para editarla
