@@ -142,7 +142,7 @@ No hay que olvidar que, como en el resto de etapas, es interesante realizar un p
 * [Plantilla para el Certificado de Desempeño](https://docs.google.com/document/d/15UsepJQizrlYGnkTVxrsev4K0FI47iz1JL_tQRxdLK4/edit?usp=sharing)
 * [Plantilla para publicación en la web](https://docs.google.com/document/d/1t9d5O1Hm1nFGRfZ0Up3eKnpy1cq-CrOWJNKKRYNleRA/edit?usp=sharing)
 * [Web de Magna SIS, apartado de proyectos](http://magnasis.com/es/proyectos/)
-* 
+* [Estructura del Sistema de Información](estructura_del_sistema_de_informacion.md)
 
 
 
