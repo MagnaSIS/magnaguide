@@ -128,8 +128,21 @@ Es interesante, también, realizar una **presentación pública** de cara un gru
 
 ### Cierre de las prácticas
 
-Evento de clausura y reorganización del sistema de información
+Con la emoción y las ganas de haber terminado el trabajo, es fácil tender a descuidar esta etapa que, sin embargo, es muy importante en cualquier proyecto para consolidar lo aprendido de cara a futuros proyectos y para garantizar la satisfacción de los participantes. En el caso de un programa de prácticas formativo en Magna SIS las tareas a realizar serían las siguientes:
 
+* **Certificados de desempeño**: Una de las maneras de asegurar la satisfacción de las personas que han trabajo en el proyecto es plasmar por escrito, con el aval de la organización, el trabajo que han realizado durante el proyecto. Se puede tomar como base del reconocimiento la descripción de antecedentes, objetivos y alcance del proyecto y concretar las tareas desempeñadas de manera individual. Además, este certificado será imprescindible presentarlo en la Universidad por parte de cada alumno en caso querer convalidar los créditos en prácticas.
+* **Reconocimiento en la web de Magna SIS**: A modo complementario al certificado, se puede añadir el reconocimiento del trabajo realizado en la sección de proyectos de la web de Magna SIS ya que, además del reconocimiento, ayuda a visibilizar y promocionar el trabajo de la empresa.
+* **Recapitulación de la información**: Durante la ejecución del proyecto se hace uso de una estructura concreta del sistema de información que pretende ser ágil, útil y clara de cara al desarrollo. Sin embargo, esa misma estructura puede no ser la más adecuada de cara a que la información generada en el proyecto sea accesible y útil para futuros proyectos de la organización. Por ello, es importante reestructurar el sistema de información recopilando y reordenando aquella información considerada más relevante de cara a la organización, como las Lecciones Aprendidas, el documento de Planificación, el Acta de Constituación y la Hoja de Seguimiento y Control.
+* **Evento de clausura**: Este proceso es quizás el menos definido e informal de todos, pero no por ello menos importante. Con carácter general, las personas involucradas en el proyecto mantienen una relación durante el proyecto desarrollada en un ambiente laboral que, si bien ha podido ser cordial y satisfactoria, no es lo más recomendable que esa relación sea exclusivamente asociada a un desempeño del trabajo. Por ello es interesante realizar una última actividad de carácter lúdico e informal como, por ejemplo, un aperitivo. En ocasiones anteriores, Magna SIS ha organizado un lunch y se ha encargado de las aportaciones principales al mismo, dando la oportunidad también de que otras personas aporten algo y gestionando que no se repitan las aportaciones.
+
+No hay que olvidar que, como en el resto de etapas, es interesante realizar un pequeño reportaje gráfico del evento para publicarlo en las Redes Sociales.
+
+#### Recursos para esta etapa
+* [Guía para las redes sociales](https://drive.google.com/file/d/0B7zmFzgQ5BgvRzV0ZDJPVXVDOE1rX0luMG1VM1pOYkNHeDFN/view?usp=sharing)
+* [Plantilla para el Certificado de Desempeño](https://docs.google.com/document/d/15UsepJQizrlYGnkTVxrsev4K0FI47iz1JL_tQRxdLK4/edit?usp=sharing)
+* [Plantilla para publicación en la web](https://docs.google.com/document/d/1t9d5O1Hm1nFGRfZ0Up3eKnpy1cq-CrOWJNKKRYNleRA/edit?usp=sharing)
+* [Web de Magna SIS, apartado de proyectos](http://magnasis.com/es/proyectos/)
+* 
 
 
 
