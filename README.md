@@ -27,9 +27,9 @@ MagnaGuide surge de cara a resolver esa necesidad de sistematizar y formalizar l
 
 ##Licencia de uso
 
-[![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/) Jon Garrido Erausquin, 2016.
 
-Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/). El reconocimiento se realizará adjuntando el nombre y los apellidos del autor.
 
 
 
