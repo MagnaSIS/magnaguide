@@ -47,7 +47,7 @@ Documento nombrado con las iniciales mayúsculas CF seguidas de un guión y el c
 
 
 ## Lecciones Aprendidas
-**regexp: /CF - [EIM]\d{3}/**
+**regexp: /LA - [EIM]\d{3}/**
 
 Este apartado del sistema de información tiene un tratamiento específico por la importancia de cara a Magna SIS y la tendencia al descuido en la ejecución del proyecto.
 
@@ -64,6 +64,8 @@ Contraejemplos:
 Una forma de identificar cuáles NO son LLAA es invertir el sentido de la frase y ver si tiene sentido o no. Por ejemplo, en el primer contraejemplo "Es importante cumplir los plazos del proyecto.", si invertimos su significado obtenemos "No es importante cumplir los plazos del proyecto.", lo cual es obvio que no tiene sentido y de lo que se concluye que no es una lección aprendida.
 
 El documento de LLAA durante el desarrollo de un proyecto en Magna SIS deberá localizarse en la carpeta de "Activos" y las Lecciones Aprendidas que se vayan generando deberán incluir el autor y la fecha de las mismas, y clasificarse en, al menos, los siguientes apartados: "Dirección", "Planificacción", "Relación con el cliente" y "Aspectos técnicos". Podrán incluirse más apartados o subapartados ya que, por ejemplo, el apartado "Aspectos técnicos" podría ser más útil en proyectos con gran cantidad de LLAA si se ordenan por categorías (Framework, Alojamiento, Sistema Operativo...).
+
+Se nombra con las iniciales mayúsculas LA seguidas de un guión y el código identificativo del proyecto.
 
 
 ## Reestructuración en el cierre del proyecto
